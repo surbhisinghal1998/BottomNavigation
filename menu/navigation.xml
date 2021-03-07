@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:title="Home"
+    android:icon="@drawable/home"
+    android:id="@+id/Home"/>
+
+    <item android:title="Add"
+        android:icon="@drawable/advertisement"
+        android:id="@+id/Add"/>
+
+    <item android:title="Favourite"
+        android:id="@+id/Favourite"
+        android:icon="@drawable/favourite"
+        />
+    <item android:title="Account"
+        android:icon="@drawable/round_account_button_with_user_inside"
+        android:id="@+id/Account"/>
+
+</menu>
